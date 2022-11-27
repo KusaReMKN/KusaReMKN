@@ -1,17 +1,36 @@
-KusaReMKN
-=========
+# KusaReMKN
 
-Hi, I'm KusaReMKN!
-You can call me **Mikan-chan**!
+Hi, I'm KusaReMKN, a corrupt *mikan* who calls herself the Great Genius
+Pretty Girl Programming Beginner.  You can call me **Mikan-chan**!
+I like Unix-like systems and I love the C programming language.
 
-The pronunciation of KusaReMKN is Kusare Mikan (/kɯsaɺe mikaɴ/).
-Kusare Mikan (腐れ蜜柑) means a rotten mikan in Japanese
-(mikan is a kind of citrus, also known as tangerine or satsuma orange).
-
-- Website: https://kusaremkn.com/
-- Twitter: [@KusaReMKN](https://twitter.com/KusaReMKN)
-
-- - - - -
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KusaReMKN&theme=dark)
-![My GitHub Status](https://github-readme-stats.vercel.app/api?username=KusaReMKN&show_icons=true&theme=dark&count_private=true&line_height=40)
+<picture>
+<source
+	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KusaReMKN&layout=compact&langs_count=8"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<source
+	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KusaReMKN&layout=compact&langs_count=8&theme=github_dark"
+	media="(prefers-color-scheme: dark)"
+/>
+<img
+	src="https://github-readme-stats.vercel.app/api/top-langs/?username=KusaReMKN&layout=compact&langs_count=8"
+	alt="Top Langs"
+	height="195"
+/>
+</picture>
+<picture>
+<source
+	srcset="https://github-readme-stats.vercel.app/api?username=KusaReMKN&show_icons=true&count_private=true"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<source
+	srcset="https://github-readme-stats.vercel.app/api?username=KusaReMKN&show_icons=true&count_private=true&theme=github_dark"
+	media="(prefers-color-scheme: dark)"
+/>
+<img
+	src="https://github-readme-stats.vercel.app/api?username=KusaReMKN&show_icons=true&count_private=true"
+	alt="GigHub Stats"
+	height="195"
+/>
+</picture>
