@@ -4,7 +4,6 @@ Hi, I'm KusaReMKN, a corrupt *mikan* who calls herself the Great Genius
 Pretty Girl Programming Beginner.  You can call me **Mikan-chan**!
 I like Unix-like systems and I love the C programming language.
 
-<!--
 <picture>
 <source
 	srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KusaReMKN&layout=compact&langs_count=8"
@@ -35,4 +34,3 @@ I like Unix-like systems and I love the C programming language.
 	height="195"
 />
 </picture>
--->
