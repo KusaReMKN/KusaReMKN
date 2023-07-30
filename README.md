@@ -34,3 +34,19 @@ I like Unix-like systems and I love the C programming language.
 	height="195"
 />
 </picture>
+
+<picture>
+<source
+	srcset="https://github-readme-streak-stats.herokuapp.com/?user=KusaReMKN&theme=transparent"
+	media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<source
+	srcset="https://github-readme-streak-stats.herokuapp.com?user=KusaReMKN&theme=github-dark-blue"
+	media="(prefers-color-scheme: dark)"
+/>
+<img
+	src="https://github-readme-streak-stats.herokuapp.com/?user=KusaReMKN&theme=transparent"
+	alt="GigHub Stats"
+	height="195"
+/>
+</picture>
