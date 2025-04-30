@@ -1,6 +1,6 @@
 # KusaReMKN
 
-Hi, I'm KusaReMKN, a corrupt *mikan* who calls herself the Great Genius
+Hi, I'm KusaReMKN, a corrupt *mikan* who calls themselves the Great Genius
 Pretty Girl Programming Beginner.  You can call me **Mikan-chan**!
 I like Unix-like systems and I love the C programming language.
 
